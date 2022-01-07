@@ -1,12 +1,21 @@
 
-.spacer {
-    aspect-ratio: 3/5;
-    width: 100%;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
+.title-section {
+
+    padding: 25px;
+    background-color: rgb(48, 45, 45);
+    height: auto;
 }
 
-.layer1 {
-    background-image:  url('./Components/svg/wave.svg');
+.title {
+
+    font-family: monospace;
+    font-size: 45px;
+    font-weight: bold;
+    color: aliceblue;
+}
+
+.App-header {
+
+    padding: 25px;
+    height: auto;
 }

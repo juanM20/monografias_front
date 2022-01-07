@@ -6,8 +6,9 @@ function App(props){
 
   return (
     <div className="App">
-      <h1 class="">Monografías</h1>
-      <div class="spacer layer1"></div>
+      <div class="title-section">
+        <h1 class="title">Monografías</h1>
+      </div>
       <header className="App-header">
         <Search></Search>
       </header>
