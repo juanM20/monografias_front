@@ -1,0 +1,12 @@
+
+.spacer {
+    aspect-ratio: 3/5;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.layer1 {
+    background-image:  url('./Components/svg/wave.svg');
+}
