@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const instance = axios.create( {
-    baseURL: "https://serene-reaches-43898.herokuapp.com" 
+    baseURL: "https://fast-journey-80413.herokuapp.com/" 
 })
 
 export default instance
